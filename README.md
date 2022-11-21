@@ -12,6 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milan-says&label=Profile%20views&color=0e75b6&style=flat" alt="milan-says" /> </p>
 
+## CURRENTLY I'M LEARNING
+-[JavaScript](https://www.javascript.com/)
+
+-[NodeJs](https://nodejs.org/en/)
+
 ## TROPHIES THAT I'VE ACHIEVED
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milan-says" alt="milan-says" /></a> </p>
