@@ -8,11 +8,11 @@
 <h3 align="center">I AM A BEGINNER FROM NEPAL</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5c1163c5085e0446ccb100d6a65abe81f03903b385145757ee3f940023fbfb23/68747470733a2f2f646c2e6b61736b75732e69642f73746f726167652e676f6f676c65617069732e636f6d2f677765622d756e69626c6f672d7075626c6973682d70726f642f6f726967696e616c5f696d616765732f44696e6f5f6e6f6e2d62697274686461795f76657273696f6e2e676966">
 
-## Public Views
+## THE REAL INFO BEGIN FROM HERE:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milan-says&label=Profile%20views&color=0e75b6&style=flat" alt="milan-says" /> </p>
 
-## GitHub Trophies
+## TROPHIES THAT I'VE ACHIEVED
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milan-says" alt="milan-says" /></a> </p>
 
